@@ -44,7 +44,8 @@ education:
       time: 2019 - 2020
       details: |
         LPI 1 + LPI 2 in Linux Systems with DevOps Training camp. fundamentals of Linux operating system.
-        Managing Linux servers & Users. DevOps tools - Docker, Kubernetees, Jenkins, Ansible, Git etc. Nginx\Apache Web server, BASH Programming.
+        Managing Linux servers & Users. DevOps tools - Docker, Kubernetees, Jenkins, Ansible, Git etc. Nginx\Apache Web server,DHCP, DNS, Samba, Proxy, Firewall,
+        BASH Programming.
         
     - degree: MCSA ,MCITP
       university: IDF - Ramat-Gan
