@@ -23,9 +23,9 @@ sidebar:
         level: Native
         
     interests:
-      - item: Skateboard
-
       - item: DIY-wood
+
+      - item: playstation
 
       - item: Cooking
 
@@ -39,7 +39,7 @@ career-profile:
         part of small SYSTEM&IT group, support windows computer's, hardware and software.  
          
 education:
-    - degree: DevOps
+    - degree: DevOps- linux sysadmin
       university: HackerU - Ramat-Gan
       time: 2019 - 2020
       details: |
