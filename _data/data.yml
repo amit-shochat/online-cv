@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Amit Shochat
-    tagline: DevOps Junior
+    tagline: DevOps 
     avatar: pic1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -32,11 +32,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        8 years experience IT Service and Desktop\Laptop, hardware\software technician: Os system, image, hardware repair and replace and Software customization.
-        During my job experience, I had Excellent technical sense, practical skills with interesting technologies, Tasks and People.
-        Supporting over 100 users, VMware, Esxi, Linux machine server and windows server.
-        incloud VPN, AD, DHCP, Ansible, FTP .
-        part of small SYSTEM&IT group, support windows computer's, hardware and software.  
+        Computer Network Technician with a passion for technology, new env and complicated problems
+        A quick learner, hard worker and always ready to learn something new
+        
+
+
          
 education:
     - degree: DevOps- linux sysadmin
@@ -99,7 +99,7 @@ skills:
         level: 98%
 
       - name: Linux
-        level: 87%
+        level: 80%
 
  
 footer: >
