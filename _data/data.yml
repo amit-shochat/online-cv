@@ -87,10 +87,10 @@ experiences:
 projects:
     title: Personal projects
     intro: >
-      Project klika over close Lan\Wan network.
-      compnay project base on Linux Centos-7, Ubuntu 18.04 and AD(Windows), 
+      Project klika 
+      A small compnay project base on Linux Centos-7, Ubuntu 18.04 and AD(Windows), 
       Includes a variety of services and servers for a functioning company:
-      Proxy, mail, DHCP/DNS, Firewall, Docker, Ansible, Kubernetes, AD, Open-VPN, switch2osm, Nginx\Apache Wed server, FTP, repos server, PXE  
+      Proxy, mail, DHCP/DNS, Firewall, Docker, Ansible, Kubernetes, AD, Open-VPN, switch2osm, Nginx\Apache Wed server, FTP, Jenkins, PXE  
 
 skills:
     title: Skills &amp; Proficiency
